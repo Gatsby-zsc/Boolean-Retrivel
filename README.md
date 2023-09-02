@@ -80,6 +80,7 @@ $
 Example:
 
 `a b /s c`
+
 Explanation: As per the WestLaw guide, following the precedence rules for this example, OR (the space) has higher priority. Because OR is a boolean connector, we can re-write the query into an equivalent form below:
 
 `(a /s c) (b /s c)`
